@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "categoria": "Entradas",
+    "nome": "Bruschetta Italiana",
+    "ingredientes": [
+      "1 baguete italiana",
+      "2 tomates maduros picados",
+      "2 dentes de alho",
+      "Azeite de oliva",
+      "Manjericão fresco",
+      "Sal e pimenta a gosto"
+    ],
+    "modoPreparo": "Corte a baguete em fatias, esfregue alho e regue com azeite. Leve ao forno até dourar e finalize com os tomates temperados e manjericão.",
+    "tempo": "15 minutos",
+    "imagem": "public/imagens/bruschetta.jpg"
+  },
+  {
+    "id": 2,
+    "categoria": "Pratos Principais",
+    "nome": "Lasanha à Bolonhesa",
+    "ingredientes": [
+      "500g de massa para lasanha",
+      "500g de carne moída",
+      "1 lata de molho de tomate",
+      "200g de queijo mussarela",
+      "200g de presunto",
+      "1 cebola e 2 dentes de alho picados"
+    ],
+    "modoPreparo": "Refogue a carne com alho e cebola, adicione o molho e monte camadas de massa, carne e queijo. Leve ao forno a 200°C por 30 minutos.",
+    "tempo": "45 minutos",
+    "imagem": "public/imagens/lasanha.webp"
+  },
+  {
+    "id": 3,
+    "categoria": "Sobremesas",
+    "nome": "Brigadeiro Gourmet",
+    "ingredientes": [
+      "1 lata de leite condensado",
+      "2 colheres de sopa de chocolate em pó 50%",
+      "1 colher de sopa de manteiga",
+      "Chocolate granulado"
+    ],
+    "modoPreparo": "Misture tudo em fogo baixo até desgrudar da panela. Deixe esfriar, enrole e passe no granulado.",
+    "tempo": "25 minutos",
+    "imagem": "/imagens/brigadeiro.jpg"
+  },
+  {
+    "id": 4,
+    "categoria": "Bebidas",
+    "nome": "Suco Verde Detox",
+    "ingredientes": [
+      "2 folhas de couve",
+      "1 maçã verde",
+      "1 limão",
+      "200ml de água gelada",
+      "Gelo a gosto"
+    ],
+    "modoPreparo": "Bata tudo no liquidificador e sirva imediatamente.",
+    "tempo": "5 minutos",
+    "imagem": "/imagens/suco-verde.webp"
+  },
+  {
+    "id": 5,
+    "categoria": "Sobremesas",
+    "nome": "Torta de Limão",
+    "ingredientes": [
+      "1 pacote de biscoito maisena",
+      "3 colheres de manteiga",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "Suco de 3 limões",
+      "Raspas de limão"
+    ],
+    "modoPreparo": "Triture os biscoitos, misture com manteiga e forre uma forma. Bata o restante e leve à geladeira por 4h.",
+    "tempo": "4 horas",
+    "imagem": "/imagens/torta-limao.webp"
+  },
+  {
+    "id": 6,
+    "categoria": "Pratos Principais",
+    "nome": "Strogonoff de Frango",
+    "ingredientes": [
+      "500g de peito de frango em cubos",
+      "1 lata de creme de leite",
+      "3 colheres de ketchup",
+      "2 colheres de mostarda",
+      "1 cebola picada"
+    ],
+    "modoPreparo": "Refogue o frango com cebola, adicione ketchup e mostarda, finalize com creme de leite e sirva com batata palha.",
+    "tempo": "30 minutos",
+    "imagem": "/imagens/strogonoff.jpg"
+  },
+  {
+    "id": 7,
+    "categoria": "Entradas",
+    "nome": "Salada Caprese",
+    "ingredientes": [
+      "Tomate",
+      "Mussarela de búfala",
+      "Folhas de manjericão",
+      "Azeite de oliva e sal"
+    ],
+    "modoPreparo": "Monte camadas alternadas e regue com azeite e sal.",
+    "tempo": "10 minutos",
+    "imagem": "/imagens/caprese.jpg"
+  }
+]
+
